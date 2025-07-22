@@ -17,3 +17,7 @@ git remote add origin https://github.com/shraddha24-smc/git-github.git
 git remote -v
 git remote set-url origin https://github.com/shraddha24-smc/git-github.git
 git push origin master
+
+
+
+this is some new changes
