@@ -12,3 +12,8 @@ git status
 rm testing.py
 ls
 git restore testing.py
+
+git remote add origin https://github.com/shraddha24-smc/git-github.git
+git remote -v
+git remote set-url origin https://github.com/shraddha24-smc/git-github.git
+git push origin master
